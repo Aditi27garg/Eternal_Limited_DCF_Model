@@ -4,4 +4,6 @@ Equity Research &amp; DCF Valuation model for Eternal Limited (formerly Zomato).
 # ScreenShot (Demo)
 Cover Page: https://github.com/Aditi27garg/Eternal_Limited_DCF_Model/blob/main/assets/Cover_Page.png
 Comps: https://github.com/Aditi27garg/Eternal_Limited_DCF_Model/blob/main/assets/Comparable%20Company.png
-Valution
+Valution: https://github.com/Aditi27garg/Eternal_Limited_DCF_Model/blob/main/assets/Valution.png
+
+#LinkdIn: www.linkedin.com/in/aditigarg2712
