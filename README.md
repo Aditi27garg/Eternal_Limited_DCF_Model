@@ -67,9 +67,9 @@ Data Sources → Eternal Ltd Annual Reports FY22–FY25, BSE/NSE filings, Earnin
 Model Version → 1.0 | April 2026
 
 # ScreenShot (Demo)
-Cover Page: https://github.com/Aditi27garg/Eternal_Limited_DCF_Model/blob/main/assets/Cover_Page.png
-Comps: https://github.com/Aditi27garg/Eternal_Limited_DCF_Model/blob/main/assets/Comparable%20Company.png
-Valution: https://github.com/Aditi27garg/Eternal_Limited_DCF_Model/blob/main/assets/Valution.png
+https://github.com/Aditi27garg/Eternal_Limited_DCF_Model/blob/main/assets/Cover_Page.png
+https://github.com/Aditi27garg/Eternal_Limited_DCF_Model/blob/main/assets/Comparable%20Company.png
+https://github.com/Aditi27garg/Eternal_Limited_DCF_Model/blob/main/assets/Valution.png
 
 # Author
 Aditi Garg
