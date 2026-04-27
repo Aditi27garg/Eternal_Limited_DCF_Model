@@ -5,7 +5,7 @@ This is an independent equity research and financial modelling project on Eterna
 The model is built entirely from scratch using publicly available annual reports, BSE/NSE filings, and earnings call transcripts. It covers FY22A–FY25A historical data and projects financials through FY29E
 
 # Investment Thesis
-Rating — 🟡 HOLD
+Rating - 🟡 HOLD
 Current Market Price → ₹249 (April 2026)
 Weighted Target Price → ₹211
 Upside / (Downside) → (15.3%)
